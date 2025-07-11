@@ -7,10 +7,10 @@ This is our group project for predicting customer churn using machine learning m
 ## Dataset
 We're using the [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle. This dataset includes information on 7,043 customers from a telecom company, including customer demographics, account information, services subscribed to, and whether or not the customer churned. The dataset has 21 columns and is suitable for binary classification tasks.
 
-## Team Tasks (In Progress)
+My contributions are below 
 - Data cleaning and preparation
 - Exploratory analysis and visualizations
 - Model building (Logistic Regression, Random Forest, XGBoost)
 - Final report and deployment planning
 
-More updates coming soon.
+
